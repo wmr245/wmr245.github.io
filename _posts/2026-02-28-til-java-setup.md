@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TIL: Java setup + Maven project"
-date: 2026-03-02 22:00:00 +0800
+date: 2026-02-28 22:00:00 +0800
 categories: [til]
 tags: [java, maven]
 ---

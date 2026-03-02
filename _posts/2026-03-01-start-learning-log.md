@@ -6,8 +6,13 @@ categories: [til]
 tags: [java, backend, rag]
 ---
 
-Today I set up my GitHub profile + Pages and created the learning-log repo.
-maven set up :be careful with the format of command.
+Today I set up my GitHub profile + Pages and created the learning-log repo.  
+
+maven set up :be careful with the format of command.  
+example in vscode:  
+```
+mvn --% -B archetype:generate -DgroupId=com.example -DartifactId=demo-maven -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+```
 
 ## Next
 - Install JDK 17 + IntelliJ IDEA

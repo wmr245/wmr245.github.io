@@ -1,0 +1,11 @@
+- name: RAG Knowledge Base
+  desc: "Java + Python RAG system: ingestion, vector search, citation, evaluation, cost & latency."
+  tech: ["Spring Boot", "MySQL", "Redis", "FastAPI", "Vector DB"]
+  repo: "https://github.com/wmr245/rag-knowledge-base"
+  demo: ""
+
+- name: Short URL Service
+  desc: "High performance short URL service: caching, hotspot handling, bloom filter, consistency."
+  tech: ["Spring Boot", "MySQL", "Redis"]
+  repo: "https://github.com/wmr245/short-url-service"
+  demo: ""

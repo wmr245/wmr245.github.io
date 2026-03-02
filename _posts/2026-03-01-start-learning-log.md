@@ -7,6 +7,7 @@ tags: [java, backend, rag]
 ---
 
 Today I set up my GitHub profile + Pages and created the learning-log repo.
+maven set up :be careful with the format of command.
 
 ## Next
 - Install JDK 17 + IntelliJ IDEA

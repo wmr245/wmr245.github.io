@@ -3,4 +3,8 @@ layout: home
 title: Home
 ---
 
-Welcome! Here are my latest posts.
+## Projects
+- 👉 See my work: **[Projects](/projects/)**
+
+## Latest posts
+Below are my latest posts.

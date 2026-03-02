@@ -22,4 +22,25 @@ mvn test
 mvn package
 ```
 
-
+##C++  
+在ai帮助下构建基础环境，具体的技术细节在后续几天内学完  
+```
+.  
+├── cpp-gateway  
+│   ├── CMakeLists.txt  
+│   ├── Dockerfile  
+│   └── src  
+│       └── main.cc  
+├── db  
+│   └── init  
+│       └── 001_init.sql  
+├── docker-compose.yml  
+├── python-ai  
+│   ├── Dockerfile  
+│   ├── app  
+│   │   └── main.py  
+│   └── requirements.txt  
+└── readme.md  
+  
+7 directories, 9 files  
+```

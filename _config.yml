@@ -1,0 +1,10 @@
+title: wmr245's Blog
+description: Java backend + AI/RAG engineering learning log
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/wmr245" }

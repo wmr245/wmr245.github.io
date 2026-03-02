@@ -1,10 +1,17 @@
-title: wmr245's Blog
-description: Java backend + AI/RAG engineering learning log
+title: wmr245
+description: Java Backend + AI/RAG Engineering | Portfolio & Blog
 theme: minima
+timezone: Asia/Shanghai
 
 plugins:
   - jekyll-feed
 
+header_pages:
+  - projects.md
+  - til.md
+  - about.md
+
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/wmr245" }
+

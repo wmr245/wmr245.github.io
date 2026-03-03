@@ -8,12 +8,3 @@
   repo: "https://github.com/wmr245/rag-kb-cpp"
   demo: ""
 
-- name: Short URL Service (C++ Drogon)
-  desc: "High performance short URL service in C++: caching, hotspot handling, bloom filter, consistency strategy, and benchmarking."
-  highlights:
-    - "Optimized redirect hot path with Redis cache; mitigates penetration/breakdown using bloom filter + mutex/logic-expire"
-    - "DB schema + index design validated with EXPLAIN; provides QPS/P95/error-rate benchmarks"
-    - "Rate limit and basic circuit-breaker for stability under burst traffic"
-  tech: ["C++17/20", "Drogon (HTTP/REST)", "CMake", "MySQL or PostgreSQL", "Redis", "Docker Compose", "spdlog", "wrk/hey (benchmark)"]
-  repo: "https://github.com/wmr245/short-url-cpp"
-  demo: ""

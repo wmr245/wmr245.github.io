@@ -6,7 +6,7 @@ categories: [til]
 tags: [python]
 ---
 
-#python 环境配置  
+# python 环境配置  
 
 通过ai辅助完成python环境配置并跑通基础代码  
 

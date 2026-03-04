@@ -1,7 +1,7 @@
 ---  
 layout: post
 title: "Start learning postgre and redis"
-date: 2026-03-03 10:00:00 +0800
+date: 2026-03-04 10:00:00 +0800
 categories: [til]
 tags: [C++,SQL,redis]
 ---  

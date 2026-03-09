@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Leetcode today"
+date: 2026-03-09 10:00:00 +0800
+categories: [til]
+tags: [C++, leetcode]
+---
+
+# 各类排序代码回顾  
+归并排序可适用于链表  
+
+注意 merge函数的优化和简化

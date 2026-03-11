@@ -15,3 +15,8 @@ minima:
   social_links:
     - { platform: github, user_url: "https://github.com/wmr245" }
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+

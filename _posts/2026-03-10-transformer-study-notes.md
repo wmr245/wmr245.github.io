@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week2 进展记录：Transformer、自注意力、Embedding 与位置编码学习总结"
-date: 2026-03-11 10:00:00 +0800
+date: 2026-03-10 10:00:00 +0800
 categories: [til]
 tags: [Transformer, Attention, Self-Attention, Embedding, Positional-Encoding, Deep-Learning, NLP]
 ---

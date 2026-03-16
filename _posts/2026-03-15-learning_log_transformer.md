@@ -1,8 +1,9 @@
-# Learning Log
-
-**Date:** Today  
-**Topic:** Transformer, Decoder training mechanism, normalization, FFN, loss functions, and backpropagation
-
+---
+layout: post
+title: "project 进展记录"
+date: 2026-03-15 10:00:00 +0800
+categories: [til]
+tags: [Transformer]
 ---
 
 ## 1. What I studied today
